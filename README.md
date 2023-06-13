@@ -6,10 +6,10 @@
 <h3 align="left">About me</h3>
 
 
-- 🌱 Reach me on github I’m currently learning C++,C# and IDE Netclass and lua
+- 🌱 I’m currently learning C++,C# and IDE Netclass and lua
 
 
-- 📫 Reach me on github
+- 📫 Reach me on discord MEEEEEEEEEEEEEE#2189
 
 
 
