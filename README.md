@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Joshua B. (💻💖☕)</h1>
-<h2 dir="auto"><a href="https://holopin.io/@warengonzaga" rel="nofollow"><img src="https://camo.githubusercontent.com/ee9e5d98321247f312fb4c97396385dab4472d0ceb93ab8936ad606359de1a58/68747470733a2f2f686f6c6f70696e2e696f2f6170692f757365722f626f6172643f757365723d776172656e676f6e7a616761"  data-canonical-src="https://holopin.io/api/user/board?user=nutzs" style="max-width: 100%;"></a></p>
+<h2 dir="auto"><a href="https://holopin.io/@nutzs" rel="nofollow"><img src="https://camo.githubusercontent.com/ee9e5d98321247f312fb4c97396385dab4472d0ceb93ab8936ad606359de1a58/68747470733a2f2f686f6c6f70696e2e696f2f6170692f757365722f626f6172643f757365723d776172656e676f6e7a616761"  data-canonical-src="https://holopin.io/api/user/board?user=nutzs" style="max-width: 100%;"></a></p>
 <h3 align="center">I am a passionate student who wants to try new things and learn new skills. I am interested in data analysis and reverse engineering, and I enjoy working on challenging projects that involve anylyzing</h3>
 
 - 🌱 I’m currently learning **C++ and IDE Netclass**
