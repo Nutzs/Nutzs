@@ -1,4 +1,5 @@
 <h1 align="left">Hi, I'm Joshua B. (💻💖☕)</h1>
+https://www.holopin.io/@nutzs#badges
 <h3 align="center">I am a passionate student who wants to try new things and learn new skills. I am interested in data analysis and reverse engineering, and I enjoy working on challenging projects that involve anylyzing</h3>
 
 - 🌱 I’m currently learning **C++ and IDE Netclass**
