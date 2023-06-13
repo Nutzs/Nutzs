@@ -5,11 +5,16 @@
 
 <h3 align="left">About me</h3>
 - 🌱 I’m currently learning C++,C# and IDE Netclass and lua
-- 
+
+
 - 📫 Reach me on github
-- 
+
+
+
 - 🧑‍🎓 Grade 12 Student and Studying at University of Cebu Main Campus
-- 
+
+
+
 -📚 Preferred self learn..
 
 
