@@ -21,6 +21,7 @@
 
 <h3 align="left">Spotify Playing:</h3>
 <img src="https://camo.githubusercontent.com/8fdeb62618a2ab001ed5eb7e61b536bd7204de563a80d29ee6faee937f210247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43687269737469616e253230506f702532304d757369632d2532333144423935342e7376673f267374796c653d666c61742d737175617265266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" alt="Ed sheeran" data-canonical-src="https://img.shields.io/badge/Christian%20Pop%20Music-%231DB954.svg?&amp;style=flat-square&amp;logo=spotify&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/20657ab03a08c69307e8955b6e9bc5d68481118649941341428df8113a5bc603/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6772616d6d696e672532304d757369632d2532333144423935342e7376673f267374796c653d666c61742d737175617265266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" alt="Programming Music" data-canonical-src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&amp;style=flat-square&amp;logo=spotify&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/11f0f83e906eb9778f97e37901e85da2a23c0fc6dd7bb9b3612de939f0b295cd/68747470733a2f2f726561646d652d73706f746966792e776172656e676f6e7a6167612e636f6d2f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://readme-spotify.warengonzaga.com/api/spotify" style="max-width: 100%;">
 <img 
 <h3 align="left">Technology:</h3>
