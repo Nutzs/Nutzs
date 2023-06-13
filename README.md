@@ -3,9 +3,10 @@
 <h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70204&width=435&lines=University+of+Cebu+Student;Cyber+Security+Engineer;Game+moderator+and+Administrator" alt="Typing SVG" /></a>
 <h4 align="center">I am a passionate student who wants to try new things and learn new skills. I am interested in data analysis and reverse engineering, and I enjoy working on challenging projects that involve anylyzing</h3>
 
-- 🌱 I’m currently learning **C++ and IDE Netclass**
+- 🌱 I’m currently learning **C++ and IDE Netclass and lua**
 
 - 📫 How to reach me **joshuabacus804@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
